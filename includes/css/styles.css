@@ -1,0 +1,343 @@
+/* -------------------------------------------
+
+TITLE : Rena Patten
+
+AUTHOR : Binarix
+AUTHOR URL : http://www.binarix.com.au
+
+DESCRIPTION : Full Site Styles
+ 
+------------------------------------------ */
+
+.clear {
+	clear: both;
+	height: 0;
+	margin: 0;
+	font-size: 0;
+	}
+
+/* ------------------------------------------
+ HEADINGS STYLES
+------------------------------------------ */
+
+h1 {
+	color: #706b65;
+	font: 27px/29px Arial,Helvetica,Sans-Serif;
+	margin: 0 0 20px 0;
+	padding: 0;
+	}
+
+h2 {
+	color: #706b65;
+	font: 14px/23px Verdana, Arial,Helvetica,Sans-serif;
+	margin: 0 0 5px 0;
+	padding: 0;
+	}
+    
+h2 a { 
+	text-decoration: none;
+	padding: 0 0 15px 0;
+	}
+	
+h2 a img { border-color: #bbb; }
+
+h3 {
+	color: #666;
+	font: 16px/21px Arial,Helvetica,Sans-serif;
+	margin: 0;
+	padding: 0 0 8px 0;
+	}
+    
+form, input { padding: 0; margin: 0; }
+
+/* ------------------------------------------
+ LINKS
+------------------------------------------ */
+
+a { color: #789042; }
+a:hover { text-decoration: none; }
+a:visited {}
+
+.icon_link {
+	float: right;
+	padding-right:15px;
+}
+
+/* ------------------------------------------
+ TEXT STYLES
+------------------------------------------ */
+
+p, td, li {
+	font: 11px/18px Verdana, Arial, Helvetica, Sans-serif;
+	color: #353535;
+	}
+    
+    .intro {
+		color: #706b65;
+		font: 14px/23px Verdana, Arial,Helvetica,Sans-serif;
+		margin: 0 0 20px 0;
+		padding: 0;
+		}
+
+p, table { margin: 0 0 10px 0;}
+
+ul {	
+	list-style-type:none;
+	margin:0;
+	padding-left:12px;
+}
+
+li { 
+	padding: 0;
+	margin: 0 0 5px 0;
+}
+
+hr {
+	border-top: 1px solid #E4E4E4;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 0;
+	color: #fff;
+	margin: 19px 0;
+	height: 0;
+	padding: 0;
+	clear: both;
+	}
+	
+.imgRight {
+    float: right;
+    padding: 3px;
+    border: 1px solid #e5e5e5;
+    margin: 0 0 20px 20px;
+    }
+    
+.imgRightSpf {
+    border: 1px solid #e5e5e5 !important;
+    float: right !important;
+    margin: -50px 0 20px 20px !important;
+    padding: 3px !important;
+    }
+    
+.imgLeft {
+    float: left;
+    padding: 3px;
+    border: 1px solid #e5e5e5;
+    margin: 0 20px 20px 0;
+    }
+
+.ContentimgLeft {
+    float: left;
+    padding: 3px;
+    border: 1px solid #e5e5e5;
+    margin: 0 6px 20px 0;     
+    }
+    
+    .logoSuperfoods{
+        
+        height: 156px !important; 
+        margin-left: 48px !important; 
+        margin-top: 94px !important; 
+        position: absolute !important; 
+        width: 544px !important;
+    }
+/* ------------------------------------------
+ GLOBALS AND LAYOUT ELEMENTS
+------------------------------------------ */
+
+html, body {
+	margin: 0;
+	padding: 0;
+    background: #fff url(../templateimages/bg.jpg) top center no-repeat;
+	}
+
+#wrapper {
+    width: 990px;
+    margin: 0 auto;
+    }
+    
+    #logo { height: 204px; }
+    
+   
+    
+    #logo img {
+         position: absolute;
+         width: 503px;
+         height: 265px;
+         }
+         
+         
+    
+    #container {
+		width: 980px;
+        margin: 0 auto;
+        padding: 0 5px;
+        background: url(../templateimages/wrapper-bg-tile.png) top center repeat-y;
+        }
+        
+        #bnnr {}
+        	#bnnr img { display: block;}    
+            
+        	#book {
+				position: absolute;
+				width: 292px;
+				height: 395px;
+				margin-top: -74px;
+				margin-left: 665px;
+				}
+
+        #book-new {
+        position: absolute;
+        width: 384px;
+        height: 300px;
+        margin-top: -54px;
+        margin-left: 565px;
+        }
+            
+				.buyNow {
+					border: 0;
+              		margin: 3px 0 0 3px;
+                	}
+                    
+        #contentMain { padding: 30px; }
+        
+          #contentLeft { width: 444px; float: left; padding: 0 0 20px 0; }
+          #contentRight { width: 444px; float: right; padding: 0 0 20px 0; }
+          
+          #recipe, #media {
+              border-top: 1px dashed #b9aba1;
+              padding: 30px 0 20px 0;
+              }
+              
+        .buyOnlineNow { border: 0; }
+		
+	#footer {
+		background: url(../templateimages/bottom-corner.png) bottom left no-repeat;
+		width: 930px;
+		margin: 0 0 0 -5px;
+		padding: 0 30px 30px 30px;
+		border-bottom: 10px solid #fff;
+    	font: 11px/25px Verdana, Arial, Helvetica, Sans-serif;
+    	color: #706b65;	
+        }
+
+
+#binarix
+{
+
+font-family:verdana;
+  color: #CBCBCB;
+    float: right;
+    font-family: verdana;
+    font-size: 9px;
+    margin-left: 590px;
+}
+
+ #productWrap{
+width: 850px;
+margin: 0 auto;
+margin-top:9;
+}
+
+.productBox {
+width: 220px;
+background: #fafafa;
+border: 1px solid #f4f2f0;
+padding: 20px;
+margin: 0 20px;
+float: left;
+}
+	
+#productbox_spf_img{
+margin-left: 15px;    
+}
+
+#productWrap .mid { margin: 0 30px; }
+
+.productBox .absoluteimg 
+{
+position: absolute;
+margin: -20px 0 0 125px;
+}
+
+ 
+ #productWrap p
+ {
+ font-size:13px !important;
+ text-align: center;
+ }
+ div#postage {
+    text-align:center;
+    font-size: 10px;
+    margin-top: -28px;
+    font-size:10px;
+}
+
+p.introtext {
+    color: #706B65;
+    font: 14px/23px Verdana,Arial,Helvetica,Sans-serif;
+    margin: 0 0 10px;
+    padding: 0;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+/*by dinuka*/
+
+.center_div {
+	float: left;
+	width: 100%;
+}
+
+.clear {
+	float: left;
+	width: 100%;
+}
+
+.txt_wrap {
+  float: left;
+  min-height: 82px;
+  width: 100%;
+  padding: 5% 0% 0% 0%;
+}
+
+
+.gap_div {
+	  height: 15px;
+  float: left;
+  width: 100%;
+}
+
+
+
+.cont_row {
+    width: 100%;
+    float: left;
+}
+
+
+.txt_blq p {
+
+    color: #7b7b7b;
+    line-height: 22px;
+    text-align: left;
+    font: 14px/23px Verdana, Arial,Helvetica,Sans-serif;
+}
+
+
+.qpage_h {
+
+    font-family: Verdana, Arial,Helvetica,Sans-serif;
+    font-size: 24px;
+}
+
+
+
+
+
+/*by dinuka*/

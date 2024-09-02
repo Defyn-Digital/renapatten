@@ -1,0 +1,318 @@
+/* -------------------------------------------
+
+TITLE : Rena Patten
+
+AUTHOR : Binarix
+AUTHOR URL : http://www.binarix.com.au
+
+DESCRIPTION : Full Site Styles
+ 
+------------------------------------------ */
+
+.clear {
+	clear: both;
+	height: 0;
+	margin: 0;
+	font-size: 0;
+	}
+
+/* ------------------------------------------
+ HEADINGS STYLES
+------------------------------------------ */
+
+h1 {
+	color: #706b65;
+	font: 27px/29px Arial,Helvetica,Sans-Serif;
+	margin: 0 0 20px 0;
+	padding: 0;
+	}
+
+h2 {
+	color: #706b65;
+	font: 14px/23px Verdana, Arial,Helvetica,Sans-serif;
+	margin: 0 0 5px 0;
+	padding: 0;
+	}
+    
+h2 a { 
+	text-decoration: none;
+	padding: 0 0 15px 0;
+	}
+	
+h2 a img { border-color: #bbb; }
+
+h3 {
+	color: #666;
+	font: 16px/21px Arial,Helvetica,Sans-serif;
+	margin: 0;
+	padding: 0 0 8px 0;
+	}
+    
+form, input { padding: 0; margin: 0; }
+
+/* ------------------------------------------
+ LINKS
+------------------------------------------ */
+
+a { color: #789042; }
+a:hover { text-decoration: none; }
+a:visited {}
+
+.icon_link {
+	float: right;
+	padding-right:15px;
+}
+
+/* ------------------------------------------
+ TEXT STYLES
+------------------------------------------ */
+
+p, td, li {
+	font: 11px/18px Verdana, Arial, Helvetica, Sans-serif;
+	color: #353535;
+	}
+    
+    .intro {
+		color: #706b65;
+		font: 14px/23px Verdana, Arial,Helvetica,Sans-serif;
+		margin: 0 0 20px 0;
+		padding: 0;
+		}
+
+p, table { margin: 0 0 10px 0;}
+
+ul {	
+	list-style-type:none;
+	margin:0;
+	padding-left:12px;
+}
+
+li { 
+	padding: 0;
+	margin: 0 0 5px 0;
+}
+
+hr {
+	border-top: 1px solid #E4E4E4;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 0;
+	color: #fff;
+	margin: 19px 0;
+	height: 0;
+	padding: 0;
+	clear: both;
+	}
+	
+.imgRight {
+    float: right;
+    padding: 3px;
+    border: 1px solid #e5e5e5;
+    margin: 0 0 20px 20px;
+    }
+
+.imgLeft {
+    float: left;
+    padding: 3px;
+    border: 1px solid #e5e5e5;
+    margin: 0 20px 20px 0;
+    }
+
+/* ------------------------------------------
+ GLOBALS AND LAYOUT ELEMENTS
+------------------------------------------ */
+
+html, body {
+	margin: 0;
+	padding: 0;
+    background: #fff url(../templateimages/bg.jpg) top center no-repeat;
+	}
+
+#wrapper {
+    width: 990px;
+    margin: 0 auto;
+    }
+    
+    #logo { height: 204px; }
+    
+    #logo img {
+         position: absolute;
+         width: 383px;
+         height: 120px;
+		 margin-top: 66px;
+         }
+    
+    #container {
+		width: 980px;
+        margin: 0 auto;
+        padding: 0 5px;
+        background: url(../templateimages/wrapper-bg-tile.png) top center repeat-y;
+        }
+        
+        #bnnr {}
+        	#bnnr img { display: block;}    
+            
+        	#book {
+				position: absolute;
+				width: 292px;
+				height: 395px;
+				margin-top: -74px;
+				margin-left: 665px;
+				}
+            
+				.buyNow {
+					border: 0;
+              		margin: 3px 0 0 3px;
+                	}
+                    
+        #contentMain { padding: 30px; }
+        
+          #contentLeft { width: 500px; float: left; padding: 0 0 20px 0; }
+          #contentRight { width: 385px; float: right; padding: 0 0 20px 0; background-color:#F5F4F2; border-top: dashed 0.5px #b9b0a3; border-bottom: dashed 0.5px #b9b0a3; margin-top: -45px;  }
+          
+          #recipe, #media {
+              border-top: 1px dashed #b9aba1;
+              padding: 30px 0 20px 0;
+              }
+              
+        .buyOnlineNow { border: 0; }
+		
+	#footer {
+		background: url(../templateimages/bottom-corner.png) bottom left no-repeat;
+		width: 930px;
+		margin: 0 0 0 -5px;
+		padding: 0 30px 30px 30px;
+		border-bottom: 10px solid #fff;
+    	font: 11px/25px Verdana, Arial, Helvetica, Sans-serif;
+    	color: #706b65;	
+        }
+
+#absoluteplace
+{
+display:block;
+
+position:absolute;
+    top:0;
+    right:0;
+    width:266px;
+
+}
+
+  #contentRight p
+  {
+  font-size:14px !important;
+  color:#706B65 !important;
+  line-height: 28px;
+    margin-top: 8px;
+	   padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+   #contentRight img
+   {
+   margin-top:30px;
+   }
+
+ .imgMiddle
+ {
+display: block;
+margin-left: auto;   
+margin-right: auto;
+ }
+ 
+ p.introtoreceipe
+ {
+ font-size:16px;
+ font-family:verdana;
+ text-align:center;
+ }
+ 
+ 
+ .lastbothbooksimg
+ {
+ margin-top:9px;
+ }
+ 
+
+ 
+
+ 
+ #productWrap{
+width: 850px;
+margin: 0 auto;
+margin-top:9;
+}
+
+.productBox 
+{
+width: 220px;
+background: #fafafa;
+border: 1px solid #f4f2f0;
+padding: 20px;
+float: left;
+}
+	
+#productWrap .mid { margin: 0 30px; }
+
+.productBox .absoluteimg 
+{
+position: absolute;
+margin: -20px 0 0 125px;
+}
+
+ 
+ #productWrap p
+ {
+ font-size:13px !important;
+ text-align: center;
+ }
+ 
+ #hrline
+ {
+  border-top: 1px dashed #B9B0A3;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 920px;
+  margin-left:25px;
+}
+
+ #hrline1
+ {
+  border-top: 1px dashed #B9B0A3;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 920px;
+  margin-left:0px;
+}
+
+#binarix
+{
+
+font-family:verdana;
+  color: #CBCBCB;
+    float: right;
+    font-family: verdana;
+    font-size: 9px;
+    margin-left: 590px;
+}
+
+p.introtext
+{
+font-size:14px;
+text-align:center;
+}
+
+div#postage
+{
+text-align:center;
+    font-size: 10px;
+    margin-top: -28px;
+
+}
+
+div#postage p
+{
+font-size:10px;
+}

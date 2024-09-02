@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta name="description" content="In Rena Patten's Cooking With Quinoa - The Supergrain, you will find 90 quinoa recipes, including quinoa soups, breads, pasta, vegetarian quinoa recipes and more!" />
+	<meta name="keywords" content="Quinoa Recipes, Rena Patten, Cooking with Quinoa" />
+
+	<title>Rena Patten || The best selling author of COOKING WITH QUINOA and QUINOA FOR FAMILIES</title>
+	<link rel="stylesheet" href="includes/css/styles3.css" media="screen, projection" type="text/css" />
+
+</head>
+
+<body>
+<div id="wrapper">
+	<div id="absoluteplace">
+	<img src="includes/template2images/best-selling-author-ribbon.png" alt="Best Selling Author" title="Rena Patten Best Selling Author" />
+	</div>
+	<div id="logo">
+		 <img src="includes/template2images/landing_rena-patten-masthead.png" alt="Rena Patten Cooking with Quinoa" title="Best Selling Author for QUINOA" />
+	</div>
+	
+	<div id="container">
+	
+		<div id="contentMain">
+		<div id="productWrap">
+    <div class="productBox">
+    <a href="/cooking_quinoa.shtml"> <img src="includes/template2images/landing_CWQ.jpg" alt="Rena Patten - Cooking with Quinoa" title="Rena Patten - Cooking with Quinoa" /> </a>
+	
+	<a href="/cooking_quinoa.shtml"><img class="buynowimg" title="Buy Cooking with Quinoa - The Supergrain" alt="Buy Cooking with Quinoa - The Supergrain" src="includes/template2images/landing_read-more.png" /></a>
+    </div>			
+    
+    <div class="productBox">
+      <a href="/quinoa_for_families.shtml"> <img src="includes/template2images/landing_Cooking-With-Quinoa.jpg" alt="Quinoa for Families" title="Quinoa for Families" /></a>
+	
+    <a href="/quinoa_for_families.shtml"><img class="buynowimg" title="Buy Quinoa for Families Now" alt="Buy Quinoa for Families Now" src="includes/template2images/landing_read-more.png" /></a>
+    </div>	
+    	
+	
+		
+		</div>
+		</div>
+		</div>
+		<div id="footer">
+			<strong>Copyright &copy; Rena Patten</strong>  &nbsp;|&nbsp;  Cooking With Quinoa and Quinoa for Families are available NOW from New Holland Publishers Australia<br />
+			Contact: <a href="mailto:info@cookingwithquinoa.com.au">info@cookingwithquinoa.com.au</a>
+			<br/>
+			<span id="binarix">Site Designed & Developed by <a href="http://www.binarix.com">Binarix</a></span>
+		</div>  
+	
+</div>
+</body>
+</html>				

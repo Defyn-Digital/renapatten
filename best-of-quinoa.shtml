@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Language" content="en" />
+	<meta name="description" content="The Everyday Quinoa, tje third book in the successful quinoa collection from New Holland. Rena's back with more great quinoa recipes to feed the family, whatever the budget, taste or dietary requirement." />
+	<meta name="keywords" content="Quinoa Recipes, Rena Patten, Everyday Quinoa, Quinoa for Families, Cooking with Quinoa" />
+
+	<title>Rena Patten's Best of Quinoa | Best of Quinoa</title>
+	<link rel="stylesheet" href="includes/css/styles4.css" media="screen, projection" type="text/css" />
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+	<div id="absoluteplace">
+	<img src="includes/template3images/best-selling-author-ribbon.png" alt="Best Selling Author" title="Rena Patten Best Selling Author" />
+	</div>
+
+    <div class="best-of-quinoa">
+
+	<div id="logo">
+		 <img src="includes/template3images/boqlogo.png" alt="Best of Quinoa by Rena Patten" title="Best of Quinoa, by Rena Patten" />
+	</div>
+
+    </div>
+	
+	
+	<div id="container">
+		<div id="bnnr">
+			<div id="book">
+				<img src="includes/template3images/best-of-quinoa.jpg" alt="Everyday Quinoa, by Rena Patten" />
+				<a href="#buynowbottom"><img class="buyNow" src="includes/template3images/qff_buy-online-now.jpg" alt="Everyday Quinoa, by Rena Patten" /></a>
+			</div>
+			<img src="includes/template3images/qff_bnnr1.png" alt="Quinoa – pronounced keen-wah - is a grain, but not just any grain. It is considered to be almost a complete food. It is very high in protein, full of vitamins, gluten and wheat free, cholesterol-free and usually organic. And it is simple delicious. 
+
+In the kitchen, quinoa has a huge range of uses and lends itself beautifully to so many dishes. It is simple to prepare, easy to digest and most enjoyable to eat. Best of Quinoa brings together a wonderful selection of easy to follow recipes for breakfast, lunch and dinner, as well as soups, salads and so much more; there is something for every palate.
+
+This exciting collection of recipes is a must-have addition to every cook’s repertoire.
+" />
+			<img src="includes/templateimages/how-to-say-quinoa.png" alt="Quinoa (keen-wah, kee-noh-uh), noun 1. A high nutrient grain, traditionally a staple in the Andes. 2. Superfood." />
+		</div>
+		<div id="contentMain">
+			<h1><img src="includes/template3images/qff_heading_what-is-quinoa.png" alt="Wholefood? Superfood? What is Quinoa?" title="Wholefood? Superfood? What is Quinoa?" style="display:none;" /></h1>
+			<!-- <div id="contentLeft" >
+    			<p>Quinoa has taken off in a big way in 2013, and Everyday Quinoa, the third in the successful Quinoa collection from Rena Patten, gives us more great recipes to feed the family, whatever the budget, taste, or dietary requirement. This tiny seed has so many unique nutritional benefits, making Rena's delicious, simple-to-prepare meals ideal for families keen to enjoy a healthy but tasty diet and to learn how to prepare quinoa varieties.</p>
+    			<p>You can even feed the family quinoa at any time!</p>
+    			<h2>What is Quinoa?</h2>
+    			<p>Quinoa (pronounced Keen-Wah) is a grain that is considered to be almost a complete food. Very high in protein, full of vitamins, totally gluten free, wheat free and cholesterol free. It is usually organic, easy to digest of great benefit to everyone and simply delicious.</p>
+    			<p>Quinoa is a pure and complete 100% grain and an almost perfect food. That is why I refer to it as the Supergrain, the Supergrain of the Century as its degree of nutrition is regarded as being quite potent.</p>
+    			<h2>About Rena</h2>
+    			<p>Rena Patten, author of Cooking with Quinoa and Quinoa for Families, has some 20 years cooking experience as a recipe developer, held cooking classes on  mediterranean cooking, and assisted Geoff Janz and Lyndey Milan in cooking demonstrations.</p>
+			</div> -->
+			<div style="display:none;">
+    		      <h1>Best of Quinoa Blurb</h1>
+    			<p>Quinoa - pronounced keen-wah - is a grain, but not just any grain. It is considered to be almost a complete food. It is very high in protein, full of vitamins, gluten and wheat free, cholesterol-free and usually organic. And it is simple delicious. </p>
+
+<p>In the kitchen, quinoa has a huge range of uses and lends itself beautifully to so many dishes. It is simple to prepare, easy to digest and most enjoyable to eat. Best of Quinoa brings together a wonderful selection of easy to follow recipes for breakfast, lunch and dinner, as well as soups, salads and so much more; there is something for every palate.</p>
+
+<p>This exciting collection of recipes is a must-have addition to every cook's repertoire.</p>
+
+			</div>
+			<br class="clear" />
+			<hr id="hrline1" /><a name="buynowbottom"></a>
+				 <h1 style="text-align:center;"><img src="includes/template3images/qff_heading_buy-onlin.png" alt="Quinoa for families" title="Quinoa for families" /></h1>
+				 <p class="introtext">Order Everyday Quinoa, Quinoa for Families and Cooking with Quinoa online now <br /><span style="font-weight:bold;">to have your copies <span style="color:#7d9d30;">signed and personalised!</span></span></p>
+			 <br />
+			 <div id="postage"><p>Shipping available in Australia ONLY. Rena's books are available internationally from online booksellers.</p></div>
+			 
+
+
+
+
+
+
+<!-- link grid ///////////////// -->
+
+        <div class="productWrap">
+        
+            <div class="productBox">
+                <img title="Buy Everyday Quinoa" alt="Buy Everyday Quinoa" src="includes/template3images/buy_everyday-quinoa.jpg">
+                <div class="txt_wrap">
+                <p> Everyday Quinoa </p>
+                <p> $29.95 + $10 postage(Australia wide only)</p>
+                </div>
+
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                      <input type="hidden" name="cmd" value="_s-xclick">
+                      <input type="hidden" name="hosted_button_id" value="BFFZF9KPV383C">
+                      <input class="buyOnlineNow" type="image" src="includes/template3images/qff_buy-online-29-95.jpg" border="0" name="submit" alt="Buy Everyday Quinoa Now.">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+                </form>
+            </div>              
+            <div class="productBox mid">
+                <img title="Buy Quinoa for Families" alt="Buy Quinoa for Families" src="includes/template3images/buy_quinoa-for-families.jpg">
+                <div class="txt_wrap">
+                <p> Quinoa for Families </p>
+                <p> $29.95 + $10 postage(Australia wide only)</p>
+                </div>
+
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="MGDKV9HSQYVHS">
+                    <input class="buyOnlineNow" type="image" src="includes/template3images/qff_buy-online-29-95.jpg" border="0" name="submit" alt="Buy Quinoa for Families Now.">
+                    <img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_AU/i/scr/pixel.gif" width="1" height="1">
+                </form>
+            </div>          
+            <div class="productBox">
+                <img title="Buy Cooking with Quinoa" alt="Buy Cooking with Quinoa" src="includes/template3images/buy_cooking-with-quinoa.png" />
+                <div class="txt_wrap">
+                <p> Cooking with Quinoa </p>
+                <p> $29.95 + $10 postage(Australia wide only)</p>
+                </div>
+
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="SJPP9FDBBCQZC">
+                        <input class="buyNow" type="image" src="includes/template3images/qff_buy-online-29-95.jpg" border="0" name="submit" alt="Buy Cooking with Quinoa">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_AU/i/scr/pixel.gif" width="1" height="1">
+                </form>
+            </div>  
+        <br class="clear" />
+        </div>      
+        <br />
+        <div class="productWrap">          
+
+                    
+                    <div class="productBox">
+                    <img id="productbox_spf_img" title="Buy Superfoods" alt="Buy Superfoods" src="includes/template3images/superfoods_bookcover_2.jpg" />
+                            <div class="txt_wrap">
+                            <p style="margin-top:10px;"> Buy Superfoods - 7 essential ingredients for living well. </p>
+                            <p> $35 + $12 postage(Australia wide only)</p>
+                            </div>
+
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="QHWFTZUTA2DGY">
+                            <input class="buyNow" type="image" src="includes/template3images/sf_buy-online-35.jpg" border="0" name="submit" alt="Buy Cooking with Quinoa">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_AU/i/scr/pixel.gif" width="1" height="1">
+                    </form>
+                </div>
+
+
+
+                <div class="productBox mid">
+                <img id="productbox_spf_img" title="Buy Cooking with Kale" alt="Buy Cooking with Kale" src="includes/templateimages/kale/buy_cooking-with-kale.jpg" /><a name="buynowbottom" id="buynowbottom"></a>
+                    <div class="txt_wrap">
+                  <p style="margin-top:10px;"> Buy Cooking with Kale </p>
+                            <p> $25 + $10 postage(Australia wide only)</p><br/>
+                     </div>                  
+
+                    
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="ELX7MNACAR7ZG">
+                        <input style="margin: -3px 0 0 0px;" class="buyNow" type="image" src="includes/templateimages/kale/cwk-buy-online-now-25.png" border="0" name="submit" alt="Buy Cooking with Kale">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_AU/i/scr/pixel.gif" width="1" height="1">
+                    </form>
+
+
+                </div>
+                 <div class="productBox">
+                <img id="productbox_spf_img" title="Buy Best of Quinoa" alt="Buy Best of Quinoa" src="/includes/templateimages/best-of-quinoa.jpg" /><a name="buynowbottom" id="buynowbottom"></a>
+                    <div class="txt_wrap">
+                  <p style="margin-top:10px;"> Buy Best of Quinoa </p>
+                            <p> $40 + $10 postage(Australia wide only) </p><br/>
+                     </div>                  
+
+                   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="9HM5U5WY4TPDC">
+<input style="margin: -3px 0 0 0px;" class="buyNow" type="image" src="/includes/templateimages/kale/cwk-buy-online-now-40.png" border="0" name="submit" alt="Buy Best of Quinoa">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+                </div>
+
+<!-- link grid ///////////////// -->
+
+
+<br class="clear" />
+				<br />		
+		<div class="productWrap">
+
+    		                  
+                <div class="productBox">
+    			<img id="productbox_spf_img" title="Buy Superfoods for Kids" alt="Buy Superfoods for Kids" src="includes/template3images/superfoods-for-kids-cover2.jpg" />
+    					<div class="txt_wrap">
+                        <p style="margin-top:10px;"> Buy Superfoods for Kids </p>
+                        <p> $24.95 + $10 postage(Australia wide only)</p>
+                        </div>
+
+    			<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        				<input type="hidden" name="cmd" value="_s-xclick">
+        				<input type="hidden" name="hosted_button_id" value="7H3AA7C3UWAX6">
+        				<input class="buyNow" type="image" src="includes/template3images/qff_buy-online-24-95.jpg" border="0" name="submit" alt="Buy Superfoods for Kids">
+        				<img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/en_AU/i/scr/pixel.gif" width="1" height="1">
+    			</form>
+    		</div>
+
+      
+
+
+		</div>
+
+
+
+
+
+
+
+
+
+
+            <br class="clear" />
+        </div>
+        <div id="footer">
+            <strong>Copyright &copy; Rena Patten</strong>  &nbsp;|&nbsp;  <em>Cooking with Quinoa - The Supergrain</em> is available from New Holland Publishers Australia from 01/04/2011<br />
+            Contact: <a href="mailto:info@cookingwithquinoa.com.au">info@cookingwithquinoa.com.au</a>
+            <span id="binarix">Site Designed & Developed by <a href="http://www.binarix.com">Binarix</a></span>
+        </div>  
+    </div>
+</div>
+</body>
+</html>             
